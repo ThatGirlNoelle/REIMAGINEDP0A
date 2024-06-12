@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "Player0",
+	"parsedColor": -7376387,
+	"coopAllowed": false,
+	"name": "regret",
+	"color": "#8F71FD",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Regret",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 145
+}

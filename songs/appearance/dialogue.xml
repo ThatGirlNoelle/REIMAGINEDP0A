@@ -1,0 +1,39 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="tablet">
+	<!-- All characters -->
+	<char name="Player0" char="Player0" position="left" />
+	<char name="girlfriend" char="girlfriend" position="middle" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<!-- Lines -->
+	<line char="Player0">
+		Uhhh...
+	</line>
+	<line char="boyfriend">
+		wtf <format color="#FF0000">impostor</format>
+	</line>
+	<line char="girlfriend">
+		be careful BF they look <format color="#FF0000">DANGEROUS!!!!</format>
+	</line>
+	<line char="Player0">
+		Why the hell are you guys static images??
+	</line>
+	<line char="Player0">
+		<format color="#FF0000">WHY AM I A STATIC IMAGE????</format>
+	</line>
+	<line char="girlfriend">
+		wow way to break the 4th wall
+	</line>
+	<line char="Player0">
+		shut up
+	</line>
+	<line char="boyfriend" >
+		y'know lowkey we should start
+	</line>
+	<line char="girlfriend">
+		true
+	</line>
+	<line char="Player0">
+		okay
+	</line>
+</dialogue>

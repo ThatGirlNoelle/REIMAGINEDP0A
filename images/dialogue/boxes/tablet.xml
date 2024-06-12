@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tablet.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box0000" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0000" x="1110" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0001" x="2220" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0002" x="0" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0003" x="0" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0004" x="1110" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0005" x="1110" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0006" x="2220" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0007" x="2220" y="550" width="1095" height="535"/>
+	<SubTexture name="openbox0008" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0009" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0010" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0011" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0012" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0013" x="0" y="0" width="1095" height="535"/>
+	<SubTexture name="openbox0014" x="0" y="0" width="1095" height="535"/>
+</TextureAtlas>

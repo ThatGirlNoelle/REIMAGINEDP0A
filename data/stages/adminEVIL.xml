@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="adminEVIL" folder="stages/admin/evil" startCamPosY="600" startCamPosX="1000">
+	<sprite name="base"       x="-600" y="0"    sprite="EVILbase"      scroll="1" />
+	<girlfriend x="500" y="500"/>
+	<sprite name="table"       x="-600" y="0"    sprite="EVILtable"      scroll="1" />
+	<sprite name="black"       x="-600" y="0"    sprite="EVILblack"      scroll="1" alpha="0.75"/>
+	<dad x="0" y="700" camxoffset="300"/>
+	<boyfriend x="1150" y="700" camxoffset="-300" camyoffset="0"/>
+	<sprite name="aura"       x="-600" y="0"    sprite="EVILaura"      scroll="1" />
+	<sprite name="overlay"       x="-600" y="0"    sprite="EVILoverlay"      scroll="1" alpha="0.5"/>
+</stage>

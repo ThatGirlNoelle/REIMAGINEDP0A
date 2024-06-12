@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox y="275">
+	<!--
+		Node containing all text settings
+	-->
+	<text font="vcr.ttf" x="247" y="156" width="1053" color="#000000" size="30"/>
+
+	<!--
+		All positions for characters
+	-->
+	<charpos name="left" x="-500" y="184" />
+	<charpos name="middle" x="-50" y="184" />
+	<charpos name="right" x="500" y="184" />
+
+	<!--
+		All animations for the dialogue box
+		For example, if you wanna add an "angry" animation, add an animation named "angry" (box idle), and "angry-open" (not needed, for box apparition)
+	-->
+	<anim name="normal" anim="box" fps="24" loop="true" />
+	<anim name="normal-open" anim="openbox" fps="24" />
+
+</dialoguebox>
