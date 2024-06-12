@@ -1,0 +1,63 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="tablet">
+	<!-- All characters -->
+	<char name="Player0" char="Player0" position="left" />
+	<char name="girlfriend" char="girlfriend" position="middle" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<!-- Lines -->
+    <line char="Player0">
+        grrr im angry now!!!
+	</line>
+    <line char="boyfriend">
+        ok
+	</line>
+    <line char="Player0">
+        ...man we need to pay more for serious stuff
+	</line>
+    <line char="boyfriend">
+        lowkey true
+	</line>
+    <line char="Player0">
+        oh yeah this might be my only chance to say something
+	</line>
+    <line char="Player0">
+        but it requires 4th wall breaking so
+	</line>
+    <line char="Player0">
+        i wont say it :]
+	</line>
+    <line char="boyfriend">
+        ok
+	</line>
+    <line char="Player0">
+        i think Noelle will just add a note after this song ends
+	</line>
+    <line char="Player0">
+        like some dumb cutscene made in capcut or whatever but hey
+	</line>
+    <line char="Player0">
+        whatever works works! ..I guess?
+	</line>
+    <line char="boyfriend">
+        ok
+	</line>
+    <line char="Player0">
+        STOP SAYING "OK"
+	</line>
+    <line char="boyfriend">
+        mb g
+	</line>
+    <line char="Player0">
+        you good
+	</line>
+    <line char="girlfriend">
+        finally i get to say something
+	</line>
+    <line char="Player0">
+        shut up
+	</line>
+    <line char="girlfriend">
+        :[
+	</line>
+</dialogue>

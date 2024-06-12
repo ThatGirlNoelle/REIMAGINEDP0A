@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="25" icon="Player0" y="360" camy="-120" isGF="false" color="#559D5F" isPlayer="false" gameOverChar="bf" holdTime="6" sprite="Parasite0">
+<character x="25" icon="Parasite0" y="360" camy="-120" isGF="false" color="#559D5F" isPlayer="false" gameOverChar="bf" holdTime="6" sprite="Parasite0">
 	<anim x="0" loop="false" y="0" fps="24" anim="ParasiteIdle" name="idle"/>
 	<anim x="300" loop="false" y="36" fps="24" anim="ParasiteLeft" name="singLEFT"/>
 	<anim x="65" loop="false" y="240" fps="24" anim="ParasiteDown" name="singDOWN"/>

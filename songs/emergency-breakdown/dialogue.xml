@@ -1,0 +1,33 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="tablet">
+	<!-- All characters -->
+	<char name="Player0" char="Player0" position="left" />
+	<char name="girlfriend" char="girlfriend" position="middle" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<!-- Lines -->
+    <line char="Player0">
+        vro
+	</line>
+    <line char="boyfriend">
+        vro
+	</line>
+    <line char="girlfriend">
+        vro
+	</line>
+    <line char="Player0">
+        vro...
+	</line>
+    <line char="Player0">
+        oh also can i like become angry and stuff after this song
+	</line>
+    <line char="Player0">
+        Noelle doesn't want to fix the cutscenes
+	</line>
+    <line char="Noelle">
+        (HEY STOP BREAKING THE 4TH WALL)
+	</line>
+    <line char="boyfriend">
+        ok
+	</line>
+</dialogue>

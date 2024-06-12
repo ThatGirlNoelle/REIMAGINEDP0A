@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="tablet">
+	<!-- All characters -->
+	<char name="Player0" char="Player0" position="left" />
+	<char name="girlfriend" char="girlfriend" position="middle" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+    <char name="him" char="him" position="left" />
+
+	<!-- Lines -->
+    <line char="Player0">
+        well that was cool but im still a static image
+	</line>
+    <line char="girlfriend">
+        <format color="#FF0000">OH MY GOD CAN YOU SHUT THE FUCK UP</format>
+	</line>
+    <line char="Player0">
+        :[
+	</line>
+    <line char="boyfriend">
+        hey hey we shouldn't be mean :[
+	</line>
+    <line char="girlfriend">
+        sorry
+	</line>
+    <line char="him">
+        im wing gaster the royal scientist
+	</line>
+</dialogue>
