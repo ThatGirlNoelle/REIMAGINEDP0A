@@ -2,7 +2,9 @@
 <!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
 <menu name="Reimagined Credits" desc="The official credits for P0A: Reimagined! Check out who made this 2024 remaster become real!">
 	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
-	<credit name="ThatGirlNoelle_" desc="Programmer, Artist, and Charter" icon="noelle" size="130" portrait="false"/>
+	<credit name="ThatGirlNoelle_" desc="Programmer, Artist, and Charter. as well as the lead director of Player 0's Appearance and its counterparts" icon="noelle" size="130" portrait="false"/>
 	<credit name="DannyVTWENTYTWENTYONE" desc="Icon Artist" icon="danny" size="130" portrait="false"/>
 	<credit name="Candon" desc="Musician" icon="candon" size="130" portrait="false"/>
+	<credit name="Team Crewmatical" desc="The original team of Player 0's Appearance" size="130" portrait="false"/>
+	<credit name="Discord Server" desc="Join the official server for updates on Player 0's Appearance: Renewed!" icon="discord" size="130" portrait="false" url="https://discord.gg/YFsza92BYD"/>
 </menu>
