@@ -1,17 +1,17 @@
 {
+	"beatsPerMeasure": 4,
 	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 145,
 	"difficulties": [
 		"HARD"
 	],
-	"icon": "Parasite0",
-	"parsedColor": -7376387,
-	"coopAllowed": false,
-	"name": "regret",
-	"color": "#8F71FD",
-	"customValues": {},
-	"stepsPerBeat": 4,
-	"displayName": "Regret",
 	"needsVoices": true,
-	"beatsPerMeasure": 4,
-	"bpm": 145
+	"parsedColor": -12879783,
+	"displayName": "Regret",
+	"icon": "Parasite0",
+	"name": "regret",
+	"color": "#3B7859",
+	"customValues": {}
 }

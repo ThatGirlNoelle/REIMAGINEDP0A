@@ -1,17 +1,17 @@
 {
+	"beatsPerMeasure": 4,
 	"opponentModeAllowed": false,
-	"icon": "Player0",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 160,
 	"difficulties": [
 		"HARD"
 	],
-	"parsedColor": -7376387,
-	"customValues": {},
-	"color": "#8F71FD",
-	"name": "emergency-breakdown",
-	"coopAllowed": false,
-	"stepsPerBeat": 4,
-	"displayName": "Emergency Breakdown",
-	"beatsPerMeasure": 4,
 	"needsVoices": true,
-	"bpm": 160
+	"parsedColor": -11295106,
+	"displayName": "Emergency Breakdown",
+	"icon": "Player0",
+	"name": "emergency-breakdown",
+	"color": "#53A67E",
+	"customValues": {}
 }

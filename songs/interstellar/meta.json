@@ -1,15 +1,17 @@
 {
+	"beatsPerMeasure": 4,
 	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 150,
 	"difficulties": [
 		"HARD"
 	],
-	"icon": "Player0",
-	"parsedColor": -7179779,
-	"coopAllowed": false,
-	"name": "interstellar",
-	"stepsPerBeat": 4,
-	"displayName": "Interstellar",
 	"needsVoices": true,
-	"beatsPerMeasure": 4,
-	"bpm": 150
+	"parsedColor": -11295106,
+	"displayName": "Interstellar",
+	"icon": "Player0",
+	"name": "interstellar",
+	"color": "#53A67E",
+	"customValues": {}
 }
